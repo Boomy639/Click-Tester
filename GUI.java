@@ -15,10 +15,10 @@ import javax.swing.JPanel;
 
 public class GUI implements ActionListener {
 	
-	private int count = 0;
-	private JLabel label;
-	private JFrame frame;
-	private JPanel panel;
+	 int count = 0;
+	 JLabel label;
+	 JFrame frame;
+	 JPanel panel;
 	
 	public GUI() {
 		
